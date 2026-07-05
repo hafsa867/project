@@ -17,6 +17,12 @@ button{
 button{
     cursor: pointer;
 }
+.form-card{
+    position: relative;
+}
+.badge{
+     position: absolute; top: 20px;right: 20px; z-index: 5; background: #e74c3c; color:
+white; padding: 4px 8px; border-radius: 4px;}
 
 
 
